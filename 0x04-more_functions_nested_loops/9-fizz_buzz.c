@@ -22,7 +22,7 @@ printf(" Buzz");
 }
 else if (i % 3 == 0 && i % 5 == 0)
 {
- printf(" FizzBuzz");
+printf(" FizzBuzz");
 }
 else if (i == 1)
 {
